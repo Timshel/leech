@@ -1,0 +1,9 @@
+{
+    "url": "https://palelights.com/table-of-contents",
+    "title": "Lost Things",
+    "author": "erraticerrata",
+    "chapter_selector": ".entry-content ul:nth-child(2) a",
+    "content_title_selector": "h1.entry-title",
+    "content_selector": ".entry-content",
+    "cover_url": "https://palelightscom.files.wordpress.com/2022/08/cropped-palel-2.png"
+}

@@ -1,8 +1,8 @@
 {
-    "url": "https://palelights.com/table-of-contents/",
-    "title": "Lost Things",
+    "url": "https://wanderinginn.com/table-of-contents/",
+    "title": "The Wandering Inn: Volume 5",
     "author": "Pirate Aba",
-    "chapter_selector": ".entry-content > p:nth-child(16) > a",
+    "chapter_selector": ".entry-content > p:nth-child(10) > a",
     "content_selector": ".entry-content",
     "cover_url": "https://static.wixstatic.com/media/94aeec_7f348c6465ca474aa9503b3640e76faf~mv2.jpg"
 }

@@ -1,0 +1,9 @@
+{
+    "url": "https://wanderinginn.com/2024/02/04/10-00-l/",
+    "title": "The Wandering Inn: Volume 10",
+    "author": "Pirate Aba",
+    "content_title_selector": "h1.entry-title",
+    "content_selector": ".entry-content",
+    "next_selector": ".nav-next a",
+    "cover_url": "https://static.wixstatic.com/media/94aeec_7f348c6465ca474aa9503b3640e76faf~mv2.jpg"
+}

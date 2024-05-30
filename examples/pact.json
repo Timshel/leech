@@ -1,0 +1,9 @@
+{
+    "url": "https://pactwebserial.wordpress.com/table-of-contents/",
+    "title": "Pact",
+    "author": "Wildbow",
+    "chapter_selector": "article .entry-content > p a",
+    "content_selector": "article .entry-content",
+    "filter_selector": ".sharedaddy, style, a[href*='pactwebserial.wordpress.com']",
+    "cover_url": "https://i.redd.it/qlf36v8y6yb01.jpg"
+}

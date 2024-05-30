@@ -4,5 +4,6 @@
     "author": "Wildbow",
     "chapter_selector": "#main .entry-content a",
     "content_selector": "#main .entry-content",
-    "filter_selector": ".sharedaddy, style, a[href*='parahumans.wordpress.com'], p:first-of-type, p:last-of-type"
+    "filter_selector": ".sharedaddy, style, a[href*='parahumans.wordpress.com'], p:first-of-type, p:last-of-type",
+    "cover_url": "https://i.redd.it/avs50nha02u41.jpg"
 }

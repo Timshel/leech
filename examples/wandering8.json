@@ -1,6 +1,6 @@
 {
-    "url": "https://palelights.com/table-of-contents/",
-    "title": "Lost Things",
+    "url": "https://wanderinginn.com/table-of-contents/",
+    "title": "The Wandering Inn: Volume 8",
     "author": "Pirate Aba",
     "chapter_selector": ".entry-content > p:nth-child(16) > a",
     "content_selector": ".entry-content",
